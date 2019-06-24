@@ -5,14 +5,9 @@ console.log({
 
 const hero = {name: 'Dea', age:100, superPower: true}
 
-console.log(hero)
-console.log(hero['name'])
-console.log(hero.age)
-console.log(hero.superPower)
+console.log(`Hello my name is ${hero.name} 
+i am ${hero.age} years old and it is ${hero.superPower} 
+i can be fruits`);
 
-alert(hero)
-alert(hero['name'])
-alert(hero.age)
-alert(hero.superPower)
 
 
