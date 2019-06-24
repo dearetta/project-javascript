@@ -6,8 +6,8 @@ console.log(3.14);
 
 const age = 20
 
-console.log('My age is ${age}')
-alert('Her age is ${age}')
+console.log(`My age is ${age}`)
+alert(`Her age is ${age}`)
 
 
 
